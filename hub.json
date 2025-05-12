@@ -108898,5 +108898,9 @@
     "tiers": [
       "Tier 1"
     ]
+  },
+  {
+    "name": "New Resource",
+    "url": "https://example.com"
   }
 ]
